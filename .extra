@@ -1,0 +1,6 @@
+export PATH=$PATH:/Users/nano/Applications/bin:/Users/nano/Applications/bin/cktools
+export EDITOR=nano
+
+# ALIASES
+alias arestart='sudo apachectl restart'
+alias mysqlrestart='mysql.server restart'
