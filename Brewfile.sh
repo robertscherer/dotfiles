@@ -32,13 +32,9 @@ brew install ack
 brew install imagemagick --with-webp
 brew install node # This installs `npm` too using the recommended installation method
 brew install p7zip
-brew install pigz
 brew install pv
-brew install rename
 brew install rhino
 brew install tree
-brew install webkit2png
-brew install zopfli
 
 
 brew cleanup
