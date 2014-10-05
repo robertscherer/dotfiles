@@ -1,5 +1,5 @@
 #!/bin/bash
-
+brew install caskroom/cask/brew-cask
 brew tap caskroom/versions
 
 # Apps
