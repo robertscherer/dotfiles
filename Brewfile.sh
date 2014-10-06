@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/bin/bash
 # The "brew bundle" command to execute a Brewfile is deprecated, so use a shell script instead
 brew update
 brew upgrade
