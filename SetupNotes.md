@@ -31,7 +31,7 @@ Prevent httpd24 build failure
 	sudo xcode-select --switch /Library/Developer/CommandLineTools
 
 Install dependencies
-
+    brew tap homebrew/apache
 	brew install homebrew/apache/httpd24
 	brew install -v php53 --homebrew-apxs --with-apache
 	brew install -v php54 --homebrew-apxs --with-apache
